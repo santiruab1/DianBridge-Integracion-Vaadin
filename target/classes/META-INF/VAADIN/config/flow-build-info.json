@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer",
+  "node.version": "v18.14.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\target\\frontend",
+  "frontendFolder": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\User\\Desktop\\software-dev\\proyecto integrador\\antlers-renderer\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
